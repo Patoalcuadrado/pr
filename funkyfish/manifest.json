@@ -58,6 +58,7 @@
                 "light":
                 {
                     "image": "Fish.webm",
+                    "first_frame": "ff.png",
                     "text_color": "#FFFFFF",
                     "text_shadow": "#0B000E"
                 }
